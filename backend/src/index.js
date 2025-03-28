@@ -10,7 +10,7 @@ const { app, server } = require('./socket/socket.js')
 const path = require('path')
 const PORT = process.env.PORT || 3000
 const { swaggerUi, swaggerSetup } = require('./configs/swagger')
-const { default: corsOptions } = require('./configs/cors.config.js')
+const corsOptions = require('./configs/cors.config.js')
 
 //middlewares
 app.use(express.json())

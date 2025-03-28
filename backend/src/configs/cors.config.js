@@ -5,10 +5,16 @@ console.log('NODE_ENV:', nodeEnv); // Để kiểm tra giá trị của NODE_ENV
 const allowedOrigins = nodeEnv === 'development'
     ? [
         'http://localhost:5173',
+        'http://localhost',
+        'http://localhost:80',
+        'http://192.168.100.23',
         'http://localhost:4173',
         'http://localhost:4175',
     ]
     : ['https://petlove.io.vn',
+        'http://localhost',
+        'http://localhost:80',
+        'http://192.168.100.23',
         'http://localhost:5173',
         'http://localhost:4173',
         'http://localhost:4175',];
@@ -21,10 +27,13 @@ const corsOptions = {
         if (allowedOrigins.includes(origin)) {
             callback(null, true);
         } else {
+            console.log('❌ Blocked by CORS:', origin);
             callback(new Error('Not allowed by CORS'));
         }
     },
+    methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
     credentials: true, // Nếu cần gửi cookie hoặc header xác thực
+    allowedHeaders: ['Content-Type', 'Authorization'],
 };
 
-export default corsOptions;
+module.exports = corsOptions;
