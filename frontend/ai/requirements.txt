@@ -1,0 +1,10 @@
+flask
+flask-cors
+pymongo
+pandas
+scikit-learn
+torch
+ultralytics
+opencv-python
+numpy
+requests

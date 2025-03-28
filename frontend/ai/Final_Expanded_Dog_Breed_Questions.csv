@@ -1,0 +1,297 @@
+question,Labrador_retriever,Golden_retriever,German_shepherd,French_bulldog,Chihuahua,beagle,Siberian_husky,boxer,Border_collie,Shih-Tzu
+Chó nào thân thiện với trẻ em?,1,1,0,1,0,1,0,1,1,0
+Loài chó nào dễ huấn luyện nhất?,1,1,1,0,0,1,0,0,1,0
+Tôi cần một loài chó không cần nhiều không gian sống?,0,0,0,1,1,1,0,0,0,1
+Chó nào thích hợp cho người mới nuôi?,1,1,0,1,0,1,0,1,1,0
+Loài chó nào tốt nhất để canh gác?,0,0,1,0,0,0,1,1,0,0
+Chó nào thích hợp với thời tiết lạnh?,0,0,1,0,0,0,1,0,1,0
+"Tôi muốn nuôi một loài chó nhỏ, dễ chăm sóc?",0,0,0,1,1,1,0,0,0,1
+Chó nào có sức khỏe tốt và ít bệnh?,1,1,1,0,0,1,1,1,1,0
+Chó nào thông minh và có thể tham gia các hoạt động thể thao?,1,1,1,0,0,1,1,1,1,0
+Loài chó nào phù hợp với gia đình có người lớn tuổi?,1,1,0,1,0,1,0,1,0,1
+Loài chó nào thích hợp để chạy bộ cùng chủ?,1,1,1,0,0,1,1,1,1,0
+Chó nào dễ chăm sóc và không cần nhiều chải chuốt?,1,1,0,1,1,1,0,0,0,1
+Loài chó nào không gây dị ứng cho người nuôi?,0,0,0,1,1,1,0,0,0,1
+Chó nào thích nghi tốt với thời tiết nóng?,1,1,0,0,1,1,0,1,0,1
+Loài chó nào sống thọ nhất?,1,1,0,0,1,1,0,0,0,1
+Chó nào ít sủa nhất và yên tĩnh trong nhà?,0,0,0,1,1,0,0,0,0,1
+Loài chó nào phù hợp cho việc đi du lịch thường xuyên?,0,0,0,1,1,1,0,0,0,1
+Tôi muốn nuôi một loài chó trung thành và bảo vệ tốt gia đình.,1,1,1,0,0,0,1,1,0,0
+Chó nào thích hợp nuôi trong căn hộ nhỏ?,0,0,0,1,1,1,0,0,0,1
+Loài chó nào có thể hòa hợp với các vật nuôi khác?,1,1,0,1,1,1,0,0,1,1
+Loài chó nào thích hợp để làm chó trị liệu?,1,1,0,0,0,1,0,0,1,0
+Chó nào phù hợp với người năng động và hay tập thể thao?,1,1,1,0,0,1,1,1,1,0
+Loài chó nào thân thiện với người lạ và dễ hòa đồng?,1,1,0,1,0,1,0,1,1,0
+Chó nào có khả năng chịu đựng việc ở một mình lâu?,0,0,1,0,0,0,1,1,0,0
+Loài chó nào phù hợp với gia đình có trẻ sơ sinh?,1,1,0,1,0,1,0,0,0,1
+Chó nào có tuổi thọ cao và ít bệnh tật?,1,1,0,0,1,1,0,0,0,1
+Loài chó nào có bộ lông cần chăm sóc đặc biệt?,0,0,0,1,0,0,0,0,1,1
+Tôi muốn nuôi một loài chó trung thành và dễ bảo vệ.,1,1,1,0,0,0,1,1,0,0
+Chó nào phù hợp với người sống độc thân và ít ra ngoài?,0,0,0,1,1,1,0,0,0,1
+Loài chó nào có thể sống ở ngoài trời quanh năm?,0,0,1,0,0,0,1,0,1,0
+Chó nào dễ dạy các thủ thuật và trò chơi?,1,1,1,0,0,1,0,1,1,0
+Loài chó nào không đòi hỏi quá nhiều hoạt động thể chất?,0,0,0,1,1,1,0,0,0,1
+Chó nào dễ bị béo phì nếu không vận động đủ?,1,1,0,1,0,1,0,0,0,1
+Loài chó nào phù hợp với môi trường thành phố bận rộn?,0,0,0,1,1,1,0,0,0,1
+Chó nào thích chơi với nước và bơi lội?,1,1,0,0,0,1,0,0,1,0
+Loài chó nào cần được xã hội hóa tốt để tránh nhút nhát?,1,1,1,0,0,1,0,1,1,0
+Chó nào dễ mắc các bệnh về xương khớp?,1,1,1,0,0,0,1,1,0,0
+Loài chó nào cần sự chú ý thường xuyên và không chịu được cô đơn?,0,0,1,1,1,1,0,1,0,1
+Chó nào có khả năng học nhanh trong các tình huống khẩn cấp?,1,1,1,0,0,1,1,1,1,0
+Loài chó nào phù hợp với những người chủ lớn tuổi và không vận động nhiều?,0,0,0,1,1,0,0,0,0,1
+Loài chó nào thích hợp sống ở nông thôn hơn là thành phố?,1,1,1,0,0,1,1,1,1,0
+Chó nào có thể sống trong môi trường ồn ào và đông đúc?,0,0,0,1,1,1,0,0,0,1
+Loài chó nào thích nghi tốt với cuộc sống ngoài trời?,1,1,1,0,0,1,1,1,1,0
+Chó nào dễ thích nghi với thời tiết nóng ẩm?,1,1,0,1,1,1,0,1,0,1
+Loài chó nào cần không gian rộng lớn để chạy nhảy?,1,1,1,0,0,1,1,1,1,0
+Loài chó nào có nguồn gốc từ Bắc Mỹ?,0,0,0,0,0,1,0,0,0,0
+Chó nào được nuôi phổ biến trong các cung điện hoàng gia?,0,0,0,1,0,0,0,0,0,1
+Loài chó nào có nguồn gốc từ châu Âu và được sử dụng trong săn bắn?,1,1,1,0,0,1,0,0,1,0
+Chó nào có nguồn gốc từ vùng Bắc Cực và dùng để kéo xe trượt tuyết?,0,0,0,0,0,0,1,0,0,0
+Loài chó nào có lịch sử lâu đời trong việc bảo vệ gia súc?,0,0,1,0,0,0,0,1,0,0
+Chó nào có tuổi thọ cao nhất trong các giống chó?,1,1,0,0,1,1,0,0,1,1
+Loài chó nào dễ mắc bệnh về mắt và da?,0,0,1,1,1,0,0,0,0,1
+Chó nào có xu hướng mắc bệnh tim mạch nhiều hơn?,0,0,0,1,0,0,0,1,0,1
+Loài chó nào ít gặp các vấn đề sức khỏe nghiêm trọng?,1,1,0,0,0,1,0,0,1,0
+Chó nào cần chế độ ăn kiêng đặc biệt để giữ sức khỏe?,0,0,0,1,0,0,1,0,0,0
+Loài chó nào dễ dàng thích nghi với gia đình có nhiều người?,1,1,0,1,0,1,0,1,0,1
+Chó nào có xu hướng bảo vệ chủ nhân tốt nhất?,0,0,1,0,0,0,1,1,0,0
+Loài chó nào có tính cách độc lập và ít cần chăm sóc?,0,0,1,0,0,0,1,1,0,0
+Chó nào rất năng động và cần nhiều hoạt động thể chất hàng ngày?,1,1,1,0,0,1,1,1,1,0
+Loài chó nào thường tỏ ra thân thiện với người lạ?,1,1,0,1,0,1,0,1,1,0
+Loài chó nào có kích thước nhỏ nhưng rất mạnh mẽ?,0,0,0,0,1,1,0,0,0,1
+Chó nào có cơ thể dài và ngắn chân?,0,0,0,0,0,0,0,0,0,1
+Loài chó nào cao lớn và có thân hình vạm vỡ?,1,1,1,0,0,0,1,1,0,0
+Chó nào có bộ lông dày và cần được chải chuốt thường xuyên?,0,0,0,1,0,0,1,0,1,1
+Loài chó nào có dáng vẻ thanh thoát và mảnh mai?,0,0,0,0,0,0,0,0,1,0
+Loài chó nào cần được kiểm tra sức khỏe định kỳ để phát hiện bệnh sớm?,0,0,0,1,0,0,1,0,0,0
+Chó nào cần vận động thường xuyên để tránh béo phì?,1,1,0,0,0,1,0,1,1,0
+Loài chó nào dễ bị các vấn đề về hô hấp?,0,0,0,1,0,0,0,0,0,1
+Chó nào cần chăm sóc lông đặc biệt để tránh lông bị rối?,0,0,0,1,0,0,1,0,1,1
+Loài chó nào cần nhiều sự chú ý và chăm sóc từ chủ nhân?,0,0,0,1,1,0,0,1,0,1
+Loài chó nào phù hợp với không gian yên tĩnh ở nông thôn?,1,1,1,0,0,1,1,1,1,0
+Chó nào có thể sống tốt trong thành phố náo nhiệt?,0,0,0,1,1,1,0,0,0,1
+Chó nào có thể sống và thích nghi ở vùng ngoại ô?,1,1,1,0,0,1,1,1,1,0
+Loài chó nào chịu được khí hậu nhiệt đới?,1,1,0,1,1,1,0,1,0,1
+Chó nào cần một sân rộng để chạy nhảy?,1,1,1,0,0,1,1,1,1,0
+Chó nào có nguồn gốc từ Mỹ?,0,0,0,0,0,1,0,0,0,0
+Loài chó nào từng được nuôi dưỡng trong hoàng cung?,0,0,0,1,0,0,0,0,0,1
+Chó nào đến từ châu Âu và từng là giống săn bắn?,1,1,1,0,0,1,0,0,1,0
+Loài chó nào đến từ vùng Bắc Cực?,0,0,0,0,0,0,1,0,0,0
+Chó nào từng được sử dụng để bảo vệ gia súc?,0,0,1,0,0,0,0,1,0,0
+Chó nào sống lâu nhất?,1,1,0,0,1,1,0,0,1,1
+Loài chó nào dễ mắc bệnh ngoài da?,0,0,1,1,1,0,0,0,0,1
+Chó nào dễ mắc bệnh tim?,0,0,0,1,0,0,0,1,0,1
+Loài chó nào ít bệnh nhất?,1,1,0,0,0,1,0,0,1,0
+Chó nào cần chế độ ăn uống đặc biệt?,0,0,0,1,0,0,1,0,0,0
+Chó nào dễ sống với gia đình đông người?,1,1,0,1,0,1,0,1,0,1
+Loài chó nào trung thành và bảo vệ chủ?,0,0,1,0,0,0,1,1,0,0
+Chó nào độc lập và ít cần chăm sóc?,0,0,1,0,0,0,1,1,0,0
+Loài chó nào cần vận động nhiều?,1,1,1,0,0,1,1,1,1,0
+Chó nào thân thiện với người lạ?,1,1,0,1,0,1,0,1,1,0
+Chó nhỏ nào nhưng mạnh mẽ?,0,0,0,0,1,1,0,0,0,1
+Loài chó nào có thân dài và chân ngắn?,0,0,0,0,0,0,0,0,0,1
+Chó lớn nào có thân hình mạnh mẽ?,1,1,1,0,0,0,1,1,0,0
+Chó nào có lông dày và cần chăm sóc?,0,0,0,1,0,0,1,0,1,1
+Loài chó nào có dáng mảnh mai và thanh thoát?,0,0,0,0,0,0,0,0,1,0
+Chó nào cần kiểm tra sức khỏe thường xuyên?,0,0,0,1,0,0,1,0,0,0
+Loài chó nào dễ bị béo phì nếu không vận động đủ?,1,1,0,0,0,1,0,1,1,0
+Chó nào dễ bị các vấn đề về đường hô hấp?,0,0,0,1,0,0,0,0,0,1
+Loài chó nào cần chải lông thường xuyên để tránh rối?,0,0,0,1,0,0,1,0,1,1
+Chó nào cần nhiều sự chú ý từ chủ?,0,0,0,1,1,0,0,1,0,1
+Chó nào cần một chế độ ăn đặc biệt để duy trì sức khỏe?,0,0,0,1,0,0,1,0,0,0
+Loài chó nào dễ bị béo phì nếu không có chế độ ăn kiểm soát?,1,1,0,0,0,1,0,1,1,0
+Chó nào cần thực phẩm giàu protein để giữ cơ bắp khỏe mạnh?,1,1,1,0,0,1,1,1,1,0
+Loài chó nào cần thức ăn ít chất béo?,0,0,0,1,1,0,0,0,0,1
+Chó nào nên ăn thực phẩm giàu chất xơ để hỗ trợ tiêu hóa?,0,0,0,1,1,1,0,0,0,1
+Loài chó nào có nhu cầu vận động cao hàng ngày?,1,1,1,0,0,1,1,1,1,0
+Chó nào cần nhiều bài tập thể chất để giải tỏa năng lượng?,1,1,1,0,0,1,1,1,1,0
+Chó nào phù hợp với người thích tập thể dục mỗi ngày?,1,1,1,0,0,1,1,1,1,0
+Loài chó nào có thể cùng chạy bộ với bạn mỗi buổi sáng?,1,1,1,0,0,1,1,1,1,0
+Chó nào cần được dẫn đi dạo thường xuyên để duy trì sức khỏe?,1,1,1,0,0,1,1,1,1,0
+Chó nào luôn trung thành và bảo vệ chủ?,0,0,1,0,0,0,1,1,0,0
+Loài chó nào thích gắn bó với chủ nhân mọi lúc mọi nơi?,1,1,0,1,0,1,0,1,0,1
+Chó nào phù hợp với gia đình lớn có nhiều người?,1,1,0,1,0,1,0,1,0,1
+Loài chó nào có thể làm bạn đồng hành tốt với trẻ em?,1,1,0,1,0,1,0,1,0,0
+Chó nào luôn thích được chủ nhân âu yếm và chú ý?,1,1,0,1,0,1,0,1,0,1
+Loài chó nào dễ dàng học lệnh cơ bản và nâng cao?,1,1,1,0,0,1,1,1,1,0
+Chó nào có khả năng tiếp thu bài học rất nhanh?,1,1,1,0,0,1,1,1,1,0
+Chó nào thích được huấn luyện và học các kỹ năng mới?,1,1,1,0,0,1,1,1,1,0
+Loài chó nào có khả năng tuân theo mệnh lệnh tốt nhất?,1,1,1,0,0,1,1,1,1,0
+Chó nào dễ dàng huấn luyện cho các hoạt động thể thao và biểu diễn?,1,1,1,0,0,1,1,1,1,0
+Chó nào không thích hợp sống ở thành phố?,1,1,1,0,0,1,1,1,1,0
+Loài chó nào không chịu được khí hậu nóng?,0,0,1,0,0,0,1,0,1,0
+Chó nào không thể sống trong không gian nhỏ?,1,1,1,0,0,1,1,1,1,0
+Loài chó nào không có nguồn gốc từ châu Âu?,0,0,0,0,0,1,0,0,0,0
+Chó nào không phù hợp làm chó săn?,0,0,0,1,1,0,0,0,0,1
+Chó nào không sống thọ?,0,0,1,1,0,0,0,0,0,0
+Loài chó nào không cần chăm sóc sức khỏe đặc biệt?,1,1,0,0,0,1,0,0,1,0
+Loài chó nào không phù hợp với gia đình có trẻ em?,0,0,1,0,1,0,1,0,1,1
+Chó nào không dễ hòa đồng với người lạ?,0,0,1,0,0,0,1,0,0,0
+Chó nào không có thân hình to lớn?,0,0,0,1,1,0,0,0,1,1
+Loài chó nào không có bộ lông dài?,1,1,0,0,1,1,0,1,0,0
+Loài chó nào không cần chăm sóc lông thường xuyên?,1,1,1,0,1,1,0,1,0,0
+Chó nào không dễ mắc các bệnh về đường hô hấp?,1,1,1,0,1,1,1,1,1,0
+Loài chó nào dễ mắc bệnh loạn sản xương hông?,1,1,1,0,0,0,1,1,1,0
+Chó nào dễ mắc bệnh viêm da dị ứng?,0,0,1,1,1,0,0,0,0,1
+Loài chó nào thường gặp vấn đề về tiêu hóa?,1,1,0,1,0,1,0,0,0,0
+Chó nào có nguy cơ bị suy tim cao?,0,0,0,1,0,0,0,1,0,1
+Loài chó nào dễ mắc bệnh động kinh?,1,1,1,0,0,0,1,0,0,0
+Loài chó nào có thể sống hòa thuận với mèo?,1,1,0,1,0,1,0,0,0,1
+Chó nào thường không hợp với các vật nuôi khác?,0,0,1,0,0,0,1,1,0,0
+Chó nào có khả năng sống chung với động vật nhỏ như thỏ hoặc chuột?,0,0,0,1,0,1,0,0,0,1
+Loài chó nào có bản năng săn mồi mạnh và không thích hợp sống chung với động vật nhỏ?,0,0,1,0,0,0,1,1,1,0
+Chó nào có thể chung sống tốt với các loài chó khác?,1,1,0,1,0,1,0,1,1,1
+Loài chó nào hay sủa và cần huấn luyện giảm sủa?,0,0,1,1,1,0,0,1,0,0
+Chó nào có bản năng bảo vệ mạnh và có thể hơi hung dữ với người lạ?,0,0,1,0,0,0,1,1,0,0
+Loài chó nào rất nhạy cảm với sự thay đổi trong gia đình?,1,1,0,1,0,1,0,0,0,1
+Chó nào dễ bị căng thẳng khi ở một mình quá lâu?,1,1,0,1,0,1,0,1,0,1
+Loài chó nào có tính cách cứng đầu và cần chủ nhân có kinh nghiệm huấn luyện?,0,0,1,0,0,0,1,1,1,0
+Loài chó nào dễ mắc bệnh viêm da dị ứng và thường gặp vấn đề về tiêu hóa?,0,0,1,1,1,0,0,0,0,1
+Chó nào có nguy cơ bị suy tim cao và dễ mắc bệnh loạn sản xương hông?,0,0,0,1,0,0,1,1,0,1
+Chó nào dễ huấn luyện nhưng lại có xu hướng bảo vệ quá mức chủ nhân?,1,1,0,0,0,1,1,1,1,0
+Loài chó nào dễ học lệnh và có khả năng bảo vệ mạnh mẽ?,1,1,1,0,0,1,1,1,1,0
+Chó nào có thể sống hòa thuận với mèo và dễ bị căng thẳng khi ở một mình?,1,1,0,1,0,1,0,1,0,1
+Loài chó nào có bản năng săn mồi mạnh và không thích hợp sống với các vật nuôi nhỏ?,0,0,1,0,0,0,1,1,1,0
+Chó nào dễ bị căng thẳng khi ở một mình quá lâu và có tính cách cứng đầu?,0,0,1,0,0,0,1,1,1,0
+Loài chó nào thích hợp với môi trường núi cao và lạnh giá?,0,0,1,0,0,0,1,0,1,0
+Chó nào có thể sống tốt ở khu vực nhiệt đới và có độ ẩm cao?,1,1,0,1,1,1,0,1,0,1
+Chó nào không phù hợp với môi trường sa mạc khô cằn?,1,1,1,1,0,1,1,1,1,1
+Loài chó nào thường có chi phí chăm sóc sức khỏe cao nhất?,0,0,1,1,1,0,1,0,0,1
+Chó nào có chi phí thức ăn và bảo dưỡng lông cao?,0,0,0,1,0,0,1,0,1,1
+Loài chó nào có tuổi thọ trung bình thấp hơn 10 năm?,0,0,1,1,0,0,0,1,0,0
+Loài chó nào thường được dùng trong các môn thể thao như kéo xe trượt tuyết?,0,0,0,0,0,0,1,0,0,0
+Chó nào có khả năng tham gia các hoạt động thể thao như đua chạy?,1,1,1,0,0,1,1,1,1,0
+Loài chó nào thường được sử dụng trong các cuộc thi thể dục thể thao dành cho chó?,1,1,1,0,0,1,1,1,1,0
+Chó nào có khả năng phục hồi sức khỏe nhanh sau chấn thương?,1,1,0,0,0,1,1,1,1,0
+Loài chó nào có sức chịu đựng tốt trong các hoạt động kéo dài?,1,1,1,0,0,1,1,1,1,0
+Chó nào có khả năng hồi phục tốt sau các ca phẫu thuật lớn?,1,1,0,0,0,1,1,1,1,0
+Chó nào phù hợp với gia đình có trẻ nhỏ dưới 5 tuổi?,1,1,0,1,0,1,0,1,0,1
+Loài chó nào có thể làm bạn đồng hành tốt cho người già?,1,1,0,1,0,1,0,1,0,1
+Chó nào không thích hợp sống với trẻ nhỏ vì tính cách dễ bị kích động?,0,0,1,0,0,0,1,0,0,0
+Loài chó nào thường được dùng trong công việc cảnh sát và quân đội?,0,1,1,0,0,0,1,1,0,0
+Chó nào có khả năng dẫn đường cho người khiếm thị tốt nhất?,1,1,0,0,0,1,0,0,0,0
+Loài chó nào được sử dụng trong các hoạt động cứu hộ ở địa hình khó khăn?,1,1,1,0,0,1,1,1,1,0
+Chó nào dễ gặp các vấn đề về di truyền liên quan đến mắt?,0,0,1,1,1,0,0,0,0,1
+Loài chó nào dễ bị ảnh hưởng bởi các vấn đề di truyền về hệ xương?,1,1,1,0,0,0,1,0,0,0
+Chó nào thường có bộ lông dày do yếu tố di truyền?,0,0,0,1,0,0,1,0,1,1
+Loài chó nào cần chế độ ăn giàu omega-3 để duy trì bộ lông và da khỏe mạnh?,1,1,0,1,0,1,1,1,1,1
+Chó nào cần thực phẩm ít carbohydrate để tránh các vấn đề sức khỏe?,1,1,1,0,0,1,1,1,1,0
+Loài chó nào yêu cầu khẩu phần ăn đặc biệt với nhiều canxi để hỗ trợ sự phát triển xương?,1,1,1,0,0,1,1,1,1,0
+Chó nào có thể sống tốt trong các căn hộ nhỏ mà không cần nhiều không gian?,0,0,0,1,1,1,0,0,0,1
+Loài chó nào cần một sân vườn rộng để chạy nhảy và giải phóng năng lượng?,1,1,1,0,0,1,1,1,1,0
+Chó nào không thích hợp với cuộc sống trong nhà và cần nhiều thời gian ngoài trời?,1,1,1,0,0,1,1,1,1,0
+Loài chó nào có xu hướng bám theo chủ mọi lúc?,1,1,0,1,0,1,0,1,0,1
+Chó nào dễ bị lo lắng khi không có sự chú ý từ con người?,1,1,0,1,0,1,0,1,0,1
+"Loài chó nào có xu hướng thân thiện với mọi người, kể cả người lạ?",1,1,0,1,0,1,0,1,0,0
+Loài chó nhỏ nào có bộ lông ngắn và ít rụng?,0,0,0,1,1,1,0,0,0,1
+Chó nào có kích thước nhỏ và không cần chăm sóc lông nhiều?,0,0,0,1,1,1,0,0,0,1
+Loài chó nhỏ nào thích hợp sống trong căn hộ và ít cần vận động?,0,0,0,1,1,1,0,0,0,1
+Chó nào có kích thước lớn và cần không gian rộng để chạy nhảy?,1,1,1,0,0,1,1,1,1,0
+Chó nào có tính cách hiền lành nhưng dễ mắc bệnh loạn sản xương hông?,1,1,1,0,0,1,1,0,1,0
+Loài chó nào rất trung thành và bảo vệ chủ nhưng dễ bị béo phì?,1,1,0,0,0,1,1,1,1,0
+Loài chó nào dễ huấn luyện và phù hợp với gia đình có trẻ nhỏ?,1,1,0,1,0,1,0,1,1,0
+Chó nào khó huấn luyện nhưng rất yêu thương trẻ em?,0,0,1,1,0,0,0,1,1,0
+Chó nào rất thân thiện với mọi người và có sức chịu đựng tốt trong các hoạt động thể thao?,1,1,1,0,0,1,1,1,1,0
+Loài chó nào ít sủa nhưng có thể tham gia các hoạt động thể thao cường độ cao?,1,1,0,0,0,1,1,1,1,0
+Loài chó nào có chi phí chăm sóc lông thấp và khả năng hồi phục sau phẫu thuật tốt?,1,1,0,1,0,1,1,1,1,0
+Chó nào cần chăm sóc sức khỏe nhiều nhưng có thể phục hồi nhanh sau các vấn đề sức khỏe?,0,0,1,1,0,0,0,1,1,0
+Loài chó nào thích hợp sống trong nhà nhưng cũng có thể chơi ngoài trời thường xuyên?,1,1,1,0,0,1,1,1,1,0
+Chó nào có thể sống trong môi trường ồn ào và không dễ bị căng thẳng?,0,0,0,1,0,1,0,1,0,1
+Loài chó nào cần một không gian rộng nhưng không đòi hỏi nhiều vận động?,0,0,0,1,1,0,0,1,0,1
+Chó nào dễ mắc các bệnh về hệ tiêu hóa nhưng có tuổi thọ cao?,1,1,0,1,0,1,0,0,0,1
+Loài chó nào cần kiểm tra sức khỏe định kỳ nhưng có chi phí chăm sóc thấp?,0,0,0,1,1,0,0,0,0,1
+Chó nào dễ gặp các vấn đề di truyền về xương và cần chế độ ăn giàu canxi?,1,1,1,0,0,1,1,0,0,0
+Loài chó nào rất năng động nhưng thân thiện với người lạ?,1,1,0,1,0,1,0,1,1,0
+Chó nào có tính cách độc lập và ít cần sự chú ý từ chủ?,0,0,1,0,0,0,1,1,0,0
+Loài chó nào dễ sống chung với các vật nuôi khác trong nhà?,1,1,0,1,0,1,0,1,1,1
+Chó nào cần một chế độ ăn đặc biệt với thực phẩm giàu protein và chất xơ?,1,1,1,0,0,1,0,1,1,1
+Loài chó nào có bộ lông dài nhưng ít rụng và dễ chăm sóc?,0,0,0,1,0,0,1,0,1,1
+Chó nào không cần chải chuốt nhiều nhưng cần một chế độ ăn đặc biệt?,0,0,0,1,1,0,0,0,0,1
+Loài chó nào thường được sử dụng trong các hoạt động tìm kiếm và cứu hộ?,1,1,1,0,0,1,1,1,1,0
+Chó nào có khả năng làm việc tốt trong các môi trường khắc nghiệt như sa mạc?,0,0,0,0,0,1,1,1,0,0
+Loài chó nào phù hợp với công việc bảo vệ và canh gác?,0,1,1,0,0,0,1,1,0,0
+"Chó nào có tính cách thân thiện, dễ chăm sóc và có khả năng huấn luyện tốt?",1,1,0,1,0,1,0,1,1,1
+Loài chó nào phù hợp với các gia đình có trẻ nhỏ và ít cần chăm sóc lông?,1,1,0,1,0,1,0,1,0,1
+Chó nào có thể tham gia các hoạt động thể thao nhưng không đòi hỏi quá nhiều chăm sóc?,1,1,0,0,0,1,1,1,1,0
+Loài chó nào dễ huấn luyện và có thể sống tốt trong môi trường thành phố?,1,1,0,1,0,1,0,0,0,1
+Chó nào thích hợp cho người cao tuổi và không cần chăm sóc quá nhiều?,1,1,0,1,0,1,0,1,0,1
+Loài chó nào rất năng động và cần nhiều không gian để chơi đùa?,1,1,1,0,0,1,1,1,1,0
+Chó nào dễ mắc các bệnh về hô hấp nhưng rất thân thiện với trẻ em?,0,0,1,1,0,0,0,0,0,1
+Loài chó nào có thể sống tốt trong căn hộ nhưng cần chế độ ăn uống đặc biệt?,0,0,0,1,1,1,0,0,0,1
+Chó nào có tính cách mạnh mẽ nhưng dễ mắc bệnh về lông?,1,1,1,0,0,1,1,0,1,1
+Loài chó nào thích hợp sống trong khí hậu lạnh và có sức chịu đựng tốt?,1,1,1,0,0,1,1,0,1,0
+Chó nào rất thông minh nhưng cần sự quan tâm và huấn luyện đặc biệt?,1,1,0,0,0,1,1,1,1,0
+Loài chó nào dễ mắc các bệnh về di truyền nhưng rất trung thành?,1,1,1,0,0,1,1,0,1,1
+Chó nào có tính cách bảo vệ mạnh mẽ nhưng cần được huấn luyện kỹ càng?,0,1,1,0,0,0,1,1,0,0
+Loài chó nào dễ bị căng thẳng nhưng rất thích hợp với trẻ nhỏ?,1,1,0,1,0,1,0,1,0,1
+Chó nào có bộ lông dài nhưng không cần chăm sóc thường xuyên?,0,0,0,1,0,0,1,0,1,1
+Loài chó nào không thích hợp với môi trường nóng nhưng rất giỏi trong việc bảo vệ chủ?,0,1,1,0,0,1,1,1,0,0
+Chó nào có thể chơi đùa với trẻ nhỏ và sống tốt với các vật nuôi khác?,1,1,0,1,0,1,0,1,1,1
+Loài chó nào dễ huấn luyện nhưng cần được chăm sóc kỹ lưỡng?,1,1,0,0,0,1,0,0,1,0
+Chó nào có khả năng thích nghi cao với môi trường đô thị nhưng dễ mắc bệnh?,1,1,0,0,0,1,1,0,1,1
+Loài chó nào phù hợp với gia đình lớn nhưng cần không gian rộng để chơi?,1,1,1,0,0,1,1,1,1,0
+Chó nào rất thông minh và có thể tham gia vào các hoạt động thể thao?,1,1,1,0,0,1,1,1,1,0
+Loài chó nào dễ bị bệnh về mắt nhưng rất thân thiện với người?,0,0,1,1,0,0,0,0,0,1
+Chó nào có thể sống tốt trong căn hộ và không gây phiền phức cho hàng xóm?,1,1,0,1,0,1,0,1,0,1
+Loài chó nào dễ chăm sóc và không cần chải chuốt nhiều?,1,1,0,1,0,1,0,0,0,1
+Chó nào có khả năng bảo vệ nhưng cũng thân thiện với trẻ nhỏ?,1,1,1,0,0,1,1,1,1,0
+Loài chó nào phù hợp với những người thích hoạt động thể thao ngoài trời?,1,1,0,0,0,1,1,1,1,0
+Chó nào dễ mắc bệnh về da nhưng rất thân thiện với mọi người?,0,0,1,1,0,0,0,0,0,1
+Loài chó nào dễ chịu đựng được khí hậu lạnh và yêu thích các hoạt động ngoài trời?,1,1,1,0,0,1,1,0,1,0
+Chó nào có tính cách bướng bỉnh nhưng lại rất yêu thương chủ nhân?,0,0,1,1,0,0,0,1,1,0
+Loài chó nào dễ bị căng thẳng khi sống một mình nhưng rất phù hợp với gia đình?,1,1,0,1,0,1,0,1,0,1
+Chó nào dễ mắc các vấn đề về xương và cần chế độ ăn giàu canxi?,1,1,1,0,0,1,1,0,0,0
+Loài chó nào dễ sống trong căn hộ nhỏ mà không gây ồn ào?,0,0,0,1,1,1,0,0,0,1
+Chó nào có thể sống tốt với trẻ nhỏ và vật nuôi khác?,1,1,0,1,0,1,0,1,0,1
+Loài chó nào dễ huấn luyện nhưng cần chủ có kinh nghiệm?,1,1,1,0,0,1,1,1,1,0
+Chó nào không cần nhiều không gian và dễ huấn luyện?,0,0,0,1,1,1,0,0,0,1
+Loài chó nào dễ bị mắc bệnh béo phì nhưng yêu thương trẻ nhỏ?,1,1,0,1,0,1,0,1,0,1
+Chó nào thích hợp với gia đình lớn và có sân vườn rộng?,1,1,1,0,0,1,1,1,1,0
+Loài chó nào thông minh và dễ học lệnh nhưng có bản năng bảo vệ?,1,1,1,0,0,1,1,1,1,0
+Chó nào có bộ lông ngắn nhưng cần chăm sóc sức khỏe thường xuyên?,1,1,0,0,0,1,0,0,1,0
+Loài chó nào có thể chơi thể thao và yêu cầu chăm sóc lông thường xuyên?,1,1,1,0,0,1,1,0,1,0
+Chó nào dễ sống trong không gian nhỏ nhưng cần vận động nhiều?,1,1,0,1,0,1,0,1,0,1
+Loài chó nào phù hợp với người sống một mình nhưng dễ bị lo lắng khi chủ vắng mặt?,1,1,0,1,0,1,0,1,0,1
+Chó nào không cần chải chuốt nhiều nhưng vẫn giữ được sức khỏe tốt?,1,1,0,0,0,1,0,0,1,0
+Loài chó nào dễ huấn luyện và thích hợp sống trong căn hộ nhỏ?,1,1,0,1,0,1,0,1,0,1
+Chó nào có thể sống tốt trong môi trường nóng và yêu cầu vận động thường xuyên?,0,0,0,1,1,1,0,0,0,1
+Loài chó nào phù hợp với gia đình lớn và yêu cầu chăm sóc sức khỏe thường xuyên?,1,1,1,0,0,1,1,1,1,0
+Chó nào có thể chịu đựng được thời tiết lạnh nhưng không cần nhiều không gian?,1,1,1,0,0,1,1,0,1,0
+Loài chó nào có tính cách thân thiện nhưng vẫn cần sự huấn luyện chuyên sâu?,1,1,1,0,0,1,1,1,1,0
+Chó nào thích hợp với gia đình có trẻ nhỏ và không gian ngoài trời rộng?,1,1,1,0,0,1,1,1,1,0
+Loài chó nào dễ sống trong môi trường đô thị và không gây ồn ào?,0,0,0,1,1,1,0,0,0,1
+Chó nào có thể thích nghi tốt với cuộc sống trong nhà nhưng cần tập thể dục thường xuyên?,1,1,0,1,0,1,0,1,0,1
+Loài chó nào có sức khỏe tốt nhưng dễ mắc các bệnh về da?,0,0,1,1,0,0,0,0,0,1
+Chó nào có thể tham gia các hoạt động thể thao nhưng dễ bị chấn thương?,1,1,0,0,0,1,1,0,1,0
+Loài chó nào có thể sống tốt với các vật nuôi khác nhưng yêu cầu chăm sóc kỹ lưỡng?,1,1,0,1,0,1,0,1,0,1
+Chó nào có tính cách thân thiện với người lạ nhưng vẫn có bản năng bảo vệ?,1,1,1,0,0,1,1,1,1,0
+Loài chó nào dễ mắc bệnh về xương và yêu cầu chế độ ăn uống giàu canxi?,1,1,1,0,0,1,1,0,0,0
+Chó nào thích hợp với người sống một mình và yêu cầu ít chăm sóc lông?,1,1,0,1,0,1,0,1,0,1
+Loài chó nào dễ sống trong điều kiện khí hậu nóng nhưng yêu cầu tập thể dục đều đặn?,0,0,0,1,1,1,0,0,0,1
+Chó nào có khả năng thích nghi tốt với môi trường đông đúc và yêu cầu sự huấn luyện chặt chẽ?,1,1,1,0,0,1,1,1,1,0
+Loài chó nào có tính cách vui vẻ và phù hợp với gia đình có trẻ nhỏ?,1,1,0,1,0,1,0,1,0,1
+Chó nào dễ mắc các bệnh về mắt nhưng yêu cầu ít vận động?,0,0,1,1,0,0,0,0,0,1
+Loài chó nào dễ sống với các vật nuôi khác và không gây rắc rối khi sống trong căn hộ?,0,0,0,1,1,1,0,0,0,1
+Chó nào dễ mắc các bệnh về tiêu hóa nhưng yêu thương chủ nhân hết mực?,1,1,0,1,0,1,0,1,0,1
+Loài chó nào thích tham gia các hoạt động thể thao nhưng yêu cầu chăm sóc sức khỏe đặc biệt?,1,1,0,0,0,1,1,1,1,0
+Chó nào có thể sống tốt trong môi trường đô thị nhưng dễ mắc các bệnh về lông?,1,1,0,0,0,1,1,0,1,0
+Loài chó nào phù hợp với người cao tuổi và yêu cầu ít vận động?,1,1,0,1,0,1,0,0,0,1
+Chó nào thích hợp sống với gia đình đông người nhưng yêu cầu sự quan tâm từ chủ?,1,1,0,1,0,1,0,1,0,1
+Loài chó nào có thể tham gia vào các hoạt động bảo vệ và yêu cầu sự huấn luyện thường xuyên?,0,1,1,0,0,0,1,1,0,0
+Chó nào có tính cách mạnh mẽ và có thể tham gia các cuộc thi bảo vệ?,0,1,1,0,0,0,1,1,0,0
+Loài chó nào có thể sống tốt trong căn hộ mà không gây rắc rối cho hàng xóm?,1,1,0,1,0,1,0,1,0,1
+Chó nào dễ mắc bệnh béo phì nhưng yêu thương trẻ nhỏ?,1,1,0,1,0,1,0,1,0,1
+Loài chó nào phù hợp với gia đình có trẻ nhỏ và không cần chăm sóc lông nhiều?,1,1,0,1,0,1,0,1,0,1
+Loài chó nào dễ bị các vấn đề về xương khớp và cần sự chăm sóc đặc biệt?,1,1,1,0,0,0,1,1,0,0
+Chó nào có tuổi thọ cao nhưng dễ mắc các bệnh về hô hấp?,0,0,1,1,1,1,0,0,0,1
+Loài chó nào yêu cầu chăm sóc lông thường xuyên để tránh bệnh da liễu?,0,0,0,1,0,0,1,1,1,1
+Chó nào thích hợp sống trong môi trường nóng nhưng yêu cầu vận động ít?,0,0,0,1,1,1,0,0,0,1
+Loài chó nào dễ chịu được thời tiết lạnh và có bộ lông dày để bảo vệ?,1,1,1,0,0,1,1,0,1,0
+Chó nào có thể sống tốt trong căn hộ nhưng cần đi dạo thường xuyên?,0,0,0,1,1,1,0,0,0,1
+Loài chó nào bảo vệ tốt nhưng vẫn thân thiện với gia đình và trẻ em?,1,1,1,0,0,1,1,1,1,0
+Chó nào dễ huấn luyện nhưng yêu cầu chủ có kinh nghiệm?,1,1,1,0,0,1,1,1,1,0
+Loài chó nào có thể sống chung tốt với các loài vật khác nhưng yêu cầu sự chú ý thường xuyên?,1,1,0,1,0,1,0,1,0,1
+Chó nào có kích thước lớn và yêu cầu không gian rộng để vận động?,1,1,1,0,0,1,1,1,1,0
+Loài chó nào nhỏ gọn và phù hợp với căn hộ nhưng cần vận động đều đặn?,0,0,0,1,1,1,0,0,0,1
+Chó nào có nhu cầu vận động cao và thích hợp với các hoạt động ngoài trời?,1,1,1,0,0,1,1,1,1,0
