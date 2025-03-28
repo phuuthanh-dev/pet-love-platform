@@ -3,6 +3,11 @@ WORKDIR /app
 COPY package.json package-lock.json ./
 RUN npm install
 COPY . .
+
+COPY .env .env
+# Nếu build qua GitHub Actions, tạo .env từ ARG
+RUN echo "VITE_OPENROUTER_API_KEY=$VITE_OPENROUTER_API_KEY" >> .env
+
 RUN npm run build
 
 # Serve với Nginx
