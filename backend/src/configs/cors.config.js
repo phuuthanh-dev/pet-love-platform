@@ -11,7 +11,7 @@ const allowedOrigins = nodeEnv === 'development'
         'http://localhost:4173',
         'http://localhost:4175',
     ]
-    : ['https://petlove.io.vn',
+    : ['https://pet-love-platform.vercel.app',
         'http://localhost',
         'http://localhost:80',
         'http://192.168.100.23',
