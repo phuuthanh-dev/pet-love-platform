@@ -2,22 +2,7 @@
 const nodeEnv = process.env.NODE_ENV || 'development';
 console.log('NODE_ENV:', nodeEnv); // Để kiểm tra giá trị của NODE_ENV
 
-const allowedOrigins = nodeEnv === 'development'
-    ? [
-        'http://localhost:5173',
-        'http://localhost',
-        'http://localhost:80',
-        'http://192.168.100.23',
-        'http://localhost:4173',
-        'http://localhost:4175',
-    ]
-    : ['https://pet-love-platform.vercel.app',
-        'http://localhost',
-        'http://localhost:80',
-        'http://192.168.100.23',
-        'http://localhost:5173',
-        'http://localhost:4173',
-        'http://localhost:4175',];
+const allowedOrigins = ['https://pet-love-platform.vercel.app'];
 
 // Cấu hình CORS
 const corsOptions = {
