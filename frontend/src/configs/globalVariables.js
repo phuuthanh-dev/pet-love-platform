@@ -5,7 +5,7 @@ console.log('Build mode:', buildMode);
 // const FE_URL = "http://localhost:5173";
 // const BASE_WS = "http://localhost:3000";
 
-let BASE_URL = import.meta.env.VITE_BUILD_MODE
+let BASE_URL = import.meta.env.VITE_BASE_URL
 let FE_URL = import.meta.env.VITE_FE_URL
 let BASE_WS = import.meta.env.VITE_BASE_WS
 
